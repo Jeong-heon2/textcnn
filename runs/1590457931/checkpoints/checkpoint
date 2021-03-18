@@ -1,0 +1,4 @@
+model_checkpoint_path: "/home/choi/PycharmProjects/tf_env/runs/1590457931/checkpoints/model-300"
+all_model_checkpoint_paths: "/home/choi/PycharmProjects/tf_env/runs/1590457931/checkpoints/model-100"
+all_model_checkpoint_paths: "/home/choi/PycharmProjects/tf_env/runs/1590457931/checkpoints/model-200"
+all_model_checkpoint_paths: "/home/choi/PycharmProjects/tf_env/runs/1590457931/checkpoints/model-300"
